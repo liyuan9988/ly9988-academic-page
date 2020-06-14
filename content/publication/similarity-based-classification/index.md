@@ -24,7 +24,7 @@ abstract: "In real-world classification problems, pairwise supervision (i.e., a 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Weak Supervision", "Preprint"]
+tags: ["Weak Supervision", "Preprints"]
 categories: ["Machine Learning"]
 featured: false
 
