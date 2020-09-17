@@ -46,7 +46,7 @@ url_code: https://github.com/liyuan9988/UncoupledRegressionComparison/
 url_dataset:
 url_poster: NIPS2019_poster.pdf
 url_project:
-url_slides:
+url_slides: https://www.slideshare.net/liyuanxu1/uncoupled-regression-from-pairwise-comparison-data
 url_source:
 url_video:
 

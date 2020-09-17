@@ -66,3 +66,8 @@ user_groups:
 ---
 
 Liyuan Xu is a Ph.D. student at Gatsby Computational Neuroscience Unit and supervised by Prof. Arthur Gretton. He is interested in machine learning problems related to decision-making, specifically, multi-armed bandit, causal inference, and reinforcement learning.
+
+<br>
+
+# What's new
+Sep. 17. 2020 : Add a slides for [Uncoupled Regression from Pairwise Comparison Data](./../../publication/uncoupled-regression/index.md)
