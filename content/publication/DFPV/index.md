@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Proxy Causal Learning and its Application to Confounded Bandit Policy Evaluati"
-authors: [Yutian Chen, Liyuan Xu, Caglar Gulcehre, Tom Le Paine, Arthur Gretton, Nando de Freitas, Arnaud Doucet]
+title: "Deep Proxy Causal Learning and its Application to Confounded Bandit Policy Evaluation"
+authors: [Liyuan Xu, Heishiro Kanagawa, Arthur Gretton]
 date: 2021-06-07
 doi: ""
 
