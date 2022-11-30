@@ -12,6 +12,10 @@ lastmod: 2018-09-15
 featured: false
 draft: false
 
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
 abstract: "We consider a problem of learning a binary classifier only from positive data and unlabeled data (PU learning) and estimating the class-prior in unlabeled data under the case-control scenario. Most of the recent methods of PU learning require an estimate of the class-prior probability in unlabeled data, and it is estimated in advance with another method. However, such a two-step approach which first estimates the class prior and then trains a classifier may not be the optimal approach since the estimation error of the class-prior is not taken into account when a classifier is trained. In this paper, we propose a novel unified approach to estimating the class-prior and training a classifier alternately. Our proposed method is simple to implement and computationally efficient. Through experiments, we demonstrate the practical usefulness of the proposed method."

@@ -70,6 +70,8 @@ Liyuan Xu is a Ph.D. student at Gatsby Computational Neuroscience Unit and super
 <br>
 
 # What's new
+Nov. 29. 2022: Add recent [publications](./../../publication/), Update accepted preprints.
+
 Jun. 21. 2021 : Add recent [publications](./../../publication/)
 
 Sep. 17. 2020 : Add a slides for [Uncoupled Regression from Pairwise Comparison Data](./../../publication/uncoupled-regression/index.md)
