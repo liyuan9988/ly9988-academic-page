@@ -24,7 +24,7 @@ abstract: "Proxy causal learning (PCL) is a method for estimating the causal eff
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Causal Learning", "Preprints"]
+tags: ["Causal Learning"]
 categories: ["Machine Learning"]
 featured: false
 
