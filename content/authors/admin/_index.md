@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liyuan Xu
+title: Ritsugen Jo (Liyuan Xu)
 
 # Username (this should match the folder name)
 authors:
