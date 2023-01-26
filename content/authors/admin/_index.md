@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Liyuan Xu is a Ph.D. student at Gatsby Computational Neuroscience Unit and supervised by Prof. Arthur Gretton. He is interested in machine learning problems related to decision-making, specifically, multi-armed bandit, causal inference, and reinforcement learning.
+Ritsugen Jo (Liyuan Xu) is a Ph.D. student at Gatsby Computational Neuroscience Unit and supervised by Prof. Arthur Gretton. He is interested in machine learning problems related to decision-making, specifically, multi-armed bandit, causal inference, and reinforcement learning.
 
 <br>
 
