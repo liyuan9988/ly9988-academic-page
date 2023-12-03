@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Machine Learning Research Intenship"
+  company = "Meta"
+  company_url = "https://investor.fb.com/"
+  location = "London"
+  date_start = "2023-07-24"
+  date_end = "2023-11-10"
+  description = """
+  Responsibilities include:
+  
+  * Research on diffusion-based Text-to-Image generation model
+  * Implement regluarization techniques and Run large-scale fine-tuning
+  """
+
+[[experience]]
   title = "Data Analysis Internship"
   company = "M3, Inc."
   company_url = "https://corporate.m3.com/en/"
