@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Machine Learning Researcher"
+  company = "Secondmind"
+  company_url = "https://www.secondmind.ai/"
+  location = "Cambridge"
+  date_start = "2024-07-21"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Research on various ML challenges in automotive industry, including Bayesian Optimization
+  * Giving introductory lectures for Gaussian Process and Bayesian Optimization
+  """
+
+[[experience]]
   title = "Machine Learning Research Intenship"
   company = "Meta"
   company_url = "https://investor.fb.com/"
