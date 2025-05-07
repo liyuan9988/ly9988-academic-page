@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Senior Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.gatsby.ucl.ac.uk/"
+- name: Secondmind
+  url: "https://www.secondmind.ai/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. Student in Machine Learning
+bio: Senior Machine Learning Researcher
 
 #education:
 #  courses:
@@ -70,7 +70,7 @@ Ritsugen Jo (Liyuan Xu) is a researcher at [Secondmind](https://www.secondmind.a
 <br>
 
 # What's new
-May. 6. 2025: Update affiliations.
+May. 6. 2025: Update affiliations. Add recent [publications](./../../publication/).
 
 Nov. 29. 2022: Add recent [publications](./../../publication/), Update accepted preprints.
 
